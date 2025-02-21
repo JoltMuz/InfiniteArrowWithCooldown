@@ -1,0 +1,6 @@
+# Enable or Disable this plugin
+enabled: true
+
+# Arrow Cooldown in ticks, default is 100 tickets (5 seconds)
+cooldown: 100
+

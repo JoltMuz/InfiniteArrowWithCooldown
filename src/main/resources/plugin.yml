@@ -1,0 +1,10 @@
+name: InfiniteArrowWithCooldown
+main: io.github.JoltMuz.InfiniteArrowWithCooldown.Main
+version: 1.0
+author: JoltTheBolt
+description: When arrow is shot, it comes back after a while.
+commands:
+  InfiniteArrowWithCooldown:
+    description: The commands for UHC event.
+    usage: /uhc ?
+    aliases: [IAWC, infinitearrow, iawc, infinitearrowwithcooldown]
